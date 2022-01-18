@@ -8,7 +8,6 @@ import { Link } from "react-router-dom";
 
 import { ImBlog } from "react-icons/im";
 import {
-  AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
